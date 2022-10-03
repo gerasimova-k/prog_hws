@@ -1,0 +1,94 @@
+a = int(input())
+while a != 0:
+    a += 1
+    print(a)
+print("End")
+
+a = input()
+for char in a: # a = qwerty char = "w"
+    print(char)
+
+for i in range(2, 10, 2): # 0:5:1
+    print(i)
+
+a = "qwerty"
+len(a)
+
+for i in range(len(a)):
+    print(a[i])
+
+a = int(input())
+while a != 0:
+    if a > 0:
+    print("a > 0")
+    break
+    a += 1
+    print(a)
+else:
+    print("no break")
+print("Cycle ended")
+
+a = int(input())
+while a != 0:
+    if a > 0:
+        print("a > 0")
+        a = -1
+        continue
+    a+= 1
+    print(a)
+else:
+    print("no break")
+print("Cycle ended")
+
+a = input("Enter new strip")
+while a: # a == " bool("") == false
+    a = input()
+
+# ИЛИ ЖЕ ТАК:
+
+while True: # while 1 < 3
+    a = input()
+    if not a:
+        break
+
+for file in files:
+    if not file.endswith(".txt"):
+        continue
+    f = openfile
+
+a = 1
+a.replace("2", "1")
+# тут будет исключение
+
+string = input()
+try:
+    print(string[4])
+except IndexError:
+    print("String too short")
+else:
+    print("String long enough!")
+finally:
+    print("script ended")
+
+for i in range(10): # 10 - 10 попугаев, если 100 - 100 len(data) = D
+    print(i + 1) # выполняется со скоростью 1 попугай
+
+# t = D * popugai
+# y = k * x + b
+# O(n) - линейная сложность алгоритма
+from time import sleep
+
+for i in range(10): # 10 - 10 попугаев, если 100 - 100 len(data) = D
+    sleep(1) # выполняется со скоростью 1 попугай
+
+a = 1
+b = 2
+print(a + b)
+
+# O(c) - константная сложность алгоритма
+
+for i in range(5):
+    for j in range(5):
+        sleep(1)
+
+# O(n ** 2) - квадратичная сложность алгоритма
