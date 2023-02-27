@@ -1,0 +1,8 @@
+welcome = ("Пожалуйста, заполните анкету.")
+print(welcome)
+name = input("Имя:")
+surname = input("Фамилия:")
+age = int(input("Возраст:"))
+print("Имя:", name)
+print("Фамилия:", surname)
+print("Возраст:",age)
