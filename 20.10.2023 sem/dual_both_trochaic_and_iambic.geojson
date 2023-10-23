@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "17A-3",
+    "name": "Rhythm Types",
+    "domain": [
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "17A-1",
+        "name": "Trochaic"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "17A-2",
+        "name": "Iambic"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "17A-3",
+        "name": "Dual: both trochaic and iambic"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0NDQ0NDQztzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "17A-4",
+        "name": "Undetermined"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "17A-5",
+        "name": "No rhythmic stress"
+      }
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 3,
+        "value_name": "Dual: both trochaic and iambic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1346,
+          "ascii_name": "larike",
+          "genus_pk": 53,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "alo",
+          "jsondata": {},
+          "id": "lrk",
+          "name": "Larike",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3.75,
+          "longitude": 127.916666667
+        },
+        "name": "Larike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.916666667,
+          -3.75
+        ]
+      },
+      "id": "lrk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 3,
+        "value_name": "Dual: both trochaic and iambic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2491,
+          "ascii_name": "wichita",
+          "genus_pk": 47,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "wic",
+          "jsondata": {},
+          "id": "wic",
+          "name": "Wichita",
+          "description": null,
+          "markup_description": null,
+          "latitude": 33.3333333333,
+          "longitude": -97.3333333333
+        },
+        "name": "Wichita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          262.6666666667,
+          33.3333333333
+        ]
+      },
+      "id": "wic"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 3,
+        "value_name": "Dual: both trochaic and iambic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2583,
+          "ascii_name": "yidiny",
+          "genus_pk": 35,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Australia",
+          "iso_codes": "yii",
+          "jsondata": {},
+          "id": "yid",
+          "name": "Yidiny",
+          "description": null,
+          "markup_description": null,
+          "latitude": -17,
+          "longitude": 145.75
+        },
+        "name": "Yidiny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.75,
+          -17
+        ]
+      },
+      "id": "yid"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 3,
+        "value_name": "Dual: both trochaic and iambic",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2628,
+          "ascii_name": "yuwaalaraay",
+          "genus_pk": 124,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "kld",
+          "jsondata": {},
+          "id": "yuw",
+          "name": "Yuwaalaraay",
+          "description": null,
+          "markup_description": null,
+          "latitude": -29.5,
+          "longitude": 148
+        },
+        "name": "Yuwaalaraay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148,
+          -29.5
+        ]
+      },
+      "id": "yuw"
+    }
+  ]
+}
