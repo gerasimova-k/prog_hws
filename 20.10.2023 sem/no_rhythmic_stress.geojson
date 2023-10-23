@@ -1,0 +1,3270 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "layer": "17A-5",
+    "name": "Rhythm Types",
+    "domain": [
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0REMDAwMDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "17A-1",
+        "name": "Trochaic"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6IzAwMDBERDtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "17A-2",
+        "name": "Iambic"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6Izk5MDA5OTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "17A-3",
+        "name": "Dual: both trochaic and iambic"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0NDQ0NDQztzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "17A-4",
+        "name": "Undetermined"
+      },
+      {
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "id": "17A-5",
+        "name": "No rhythmic stress"
+      }
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 48,
+          "ascii_name": "aguacatec",
+          "genus_pk": 17,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "agu",
+          "jsondata": {},
+          "id": "agu",
+          "name": "Aguacatec",
+          "description": null,
+          "markup_description": null,
+          "latitude": 15.4166666667,
+          "longitude": -91.3333333333
+        },
+        "name": "Aguacatec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          268.6666666667,
+          15.4166666667
+        ]
+      },
+      "id": "agu"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 79,
+          "ascii_name": "alune",
+          "genus_pk": 53,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "alp",
+          "jsondata": {},
+          "id": "aln",
+          "name": "Alune",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3,
+          "longitude": 128.333333333
+        },
+        "name": "Alune"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.333333333,
+          -3
+        ]
+      },
+      "id": "aln"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 90,
+          "ascii_name": "amele",
+          "genus_pk": 61,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "aey",
+          "jsondata": {},
+          "id": "ame",
+          "name": "Amele",
+          "description": null,
+          "markup_description": null,
+          "latitude": -5.25,
+          "longitude": 145.583333333
+        },
+        "name": "Amele"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.583333333,
+          -5.25
+        ]
+      },
+      "id": "ame"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 133,
+          "ascii_name": "archi",
+          "genus_pk": 32,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "aqc",
+          "jsondata": {},
+          "id": "arc",
+          "name": "Archi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42,
+          "longitude": 46.8333333333
+        },
+        "name": "Archi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.8333333333,
+          42
+        ]
+      },
+      "id": "arc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 174,
+          "ascii_name": "avar",
+          "genus_pk": 79,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "ava",
+          "jsondata": {},
+          "id": "ava",
+          "name": "Avar",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42.5,
+          "longitude": 46.5
+        },
+        "name": "Avar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5,
+          42.5
+        ]
+      },
+      "id": "ava"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 179,
+          "ascii_name": "awadhi",
+          "genus_pk": 91,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "awa",
+          "jsondata": {},
+          "id": "awd",
+          "name": "Awadhi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 27.5,
+          "longitude": 81.5
+        },
+        "name": "Awadhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5,
+          27.5
+        ]
+      },
+      "id": "awd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 219,
+          "ascii_name": "bambam",
+          "genus_pk": 94,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "ptu",
+          "jsondata": {},
+          "id": "bbm",
+          "name": "Bambam",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3.08333333333,
+          "longitude": 119.083333333
+        },
+        "name": "Bambam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.083333333,
+          -3.08333333333
+        ]
+      },
+      "id": "bbm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 221,
+          "ascii_name": "bininj gunwok",
+          "genus_pk": 123,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "gup",
+          "jsondata": {},
+          "id": "bbw",
+          "name": "Bininj Gun-Wok",
+          "description": null,
+          "markup_description": null,
+          "latitude": -12.5,
+          "longitude": 133.75
+        },
+        "name": "Bininj Gun-Wok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.75,
+          -12.5
+        ]
+      },
+      "id": "bbw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 238,
+          "ascii_name": "bengali",
+          "genus_pk": 91,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "ben",
+          "jsondata": {},
+          "id": "ben",
+          "name": "Bengali",
+          "description": null,
+          "markup_description": null,
+          "latitude": 24,
+          "longitude": 90
+        },
+        "name": "Bengali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90,
+          24
+        ]
+      },
+      "id": "ben"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 255,
+          "ascii_name": "bagvalal",
+          "genus_pk": 79,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "kva",
+          "jsondata": {},
+          "id": "bgv",
+          "name": "Bagvalal",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42.5833333333,
+          "longitude": 46.1666666667
+        },
+        "name": "Bagvalal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1666666667,
+          42.5833333333
+        ]
+      },
+      "id": "bgv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 317,
+          "ascii_name": "bantik",
+          "genus_pk": 164,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "bnq",
+          "jsondata": {},
+          "id": "bnt",
+          "name": "Bantik",
+          "description": null,
+          "markup_description": null,
+          "latitude": 1.41666666667,
+          "longitude": 124.75
+        },
+        "name": "Bantik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.75,
+          1.41666666667
+        ]
+      },
+      "id": "bnt"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 336,
+          "ascii_name": "basque bidasoa valley",
+          "genus_pk": 171,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "eus",
+          "jsondata": {},
+          "id": "bqb",
+          "name": "Basque (Bidasoa Valley)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43,
+          "longitude": -3.83333333333
+        },
+        "name": "Basque (Bidasoa Valley)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83333333333,
+          43
+        ]
+      },
+      "id": "bqb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 337,
+          "ascii_name": "basque gernica",
+          "genus_pk": 171,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "eus",
+          "jsondata": {},
+          "id": "bqg",
+          "name": "Basque (Gernica)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43.3333333333,
+          "longitude": -3
+        },
+        "name": "Basque (Gernica)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3,
+          43.3333333333
+        ]
+      },
+      "id": "bqg"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 338,
+          "ascii_name": "basque hondarribia",
+          "genus_pk": 171,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "eus",
+          "jsondata": {},
+          "id": "bqh",
+          "name": "Basque (Hondarribia)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42.5,
+          "longitude": -3
+        },
+        "name": "Basque (Hondarribia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3,
+          42.5
+        ]
+      },
+      "id": "bqh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 340,
+          "ascii_name": "basque lekeitio",
+          "genus_pk": 171,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "eus",
+          "jsondata": {},
+          "id": "bql",
+          "name": "Basque (Lekeitio)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43,
+          "longitude": -2.5
+        },
+        "name": "Basque (Lekeitio)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5,
+          43
+        ]
+      },
+      "id": "bql"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 341,
+          "ascii_name": "basque northern high navarrese",
+          "genus_pk": 171,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "eus",
+          "jsondata": {},
+          "id": "bqn",
+          "name": "Basque (Northern High Navarrese)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43.3333333333,
+          "longitude": -2.5
+        },
+        "name": "Basque (Northern High Navarrese)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5,
+          43.3333333333
+        ]
+      },
+      "id": "bqn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 342,
+          "ascii_name": "basque onati",
+          "genus_pk": 171,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "eus",
+          "jsondata": {},
+          "id": "bqo",
+          "name": "Basque (Oñati)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42.5,
+          "longitude": -3.5
+        },
+        "name": "Basque (Oñati)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5,
+          42.5
+        ]
+      },
+      "id": "bqo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 343,
+          "ascii_name": "basque roncalese",
+          "genus_pk": 171,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "eus",
+          "jsondata": {},
+          "id": "bqr",
+          "name": "Basque (Roncalese)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43,
+          "longitude": -2
+        },
+        "name": "Basque (Roncalese)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2,
+          43
+        ]
+      },
+      "id": "bqr"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 345,
+          "ascii_name": "basque zeberio",
+          "genus_pk": 171,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "eus",
+          "jsondata": {},
+          "id": "bqz",
+          "name": "Basque (Zeberio)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42,
+          "longitude": -3
+        },
+        "name": "Basque (Zeberio)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3,
+          42
+        ]
+      },
+      "id": "bqz"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 371,
+          "ascii_name": "bashkir",
+          "genus_pk": 90,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "bak",
+          "jsondata": {},
+          "id": "bsk",
+          "name": "Bashkir",
+          "description": null,
+          "markup_description": null,
+          "latitude": 53,
+          "longitude": 58
+        },
+        "name": "Bashkir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58,
+          53
+        ]
+      },
+      "id": "bsk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 374,
+          "ascii_name": "basque souletin",
+          "genus_pk": 171,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "eus",
+          "jsondata": {},
+          "id": "bso",
+          "name": "Basque (Souletin)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43.5,
+          "longitude": -1.5
+        },
+        "name": "Basque (Souletin)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5,
+          43.5
+        ]
+      },
+      "id": "bso"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 381,
+          "ascii_name": "burarra",
+          "genus_pk": 184,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "bvr",
+          "jsondata": {},
+          "id": "bua",
+          "name": "Burarra",
+          "description": null,
+          "markup_description": null,
+          "latitude": -12.25,
+          "longitude": 134.583333333
+        },
+        "name": "Burarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.583333333,
+          -12.25
+        ]
+      },
+      "id": "bua"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 454,
+          "ascii_name": "chuvash",
+          "genus_pk": 90,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "chv",
+          "jsondata": {},
+          "id": "chv",
+          "name": "Chuvash",
+          "description": null,
+          "markup_description": null,
+          "latitude": 55.5,
+          "longitude": 47.5
+        },
+        "name": "Chuvash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.5,
+          55.5
+        ]
+      },
+      "id": "chv"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 492,
+          "ascii_name": "coos hanis",
+          "genus_pk": 222,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "csz",
+          "jsondata": {},
+          "id": "coo",
+          "name": "Coos (Hanis)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43.5,
+          "longitude": -124.166666667
+        },
+        "name": "Coos (Hanis)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235.83333333299998,
+          43.5
+        ]
+      },
+      "id": "coo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 523,
+          "ascii_name": "catalan",
+          "genus_pk": 92,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "cat",
+          "jsondata": {},
+          "id": "ctl",
+          "name": "Catalan",
+          "description": null,
+          "markup_description": null,
+          "latitude": 41.75,
+          "longitude": 2
+        },
+        "name": "Catalan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          41.75
+        ]
+      },
+      "id": "ctl"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 528,
+          "ascii_name": "cubeo",
+          "genus_pk": 163,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "South America",
+          "iso_codes": "cub",
+          "jsondata": {},
+          "id": "cub",
+          "name": "Cubeo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 1.33333333333,
+          "longitude": -70.5
+        },
+        "name": "Cubeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.5,
+          1.33333333333
+        ]
+      },
+      "id": "cub"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 540,
+          "ascii_name": "chatino yaitepec",
+          "genus_pk": 206,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "ctp",
+          "jsondata": {},
+          "id": "cya",
+          "name": "Chatino (Yaitepec)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 16.25,
+          "longitude": -97.25
+        },
+        "name": "Chatino (Yaitepec)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          262.75,
+          16.25
+        ]
+      },
+      "id": "cya"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 550,
+          "ascii_name": "dakota",
+          "genus_pk": 242,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "dak",
+          "jsondata": {},
+          "id": "dak",
+          "name": "Dakota",
+          "description": null,
+          "markup_description": null,
+          "latitude": 45,
+          "longitude": -93.5
+        },
+        "name": "Dakota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          266.5,
+          45
+        ]
+      },
+      "id": "dak"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 584,
+          "ascii_name": "dhurga",
+          "genus_pk": 124,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "dhu",
+          "jsondata": {},
+          "id": "dhu",
+          "name": "Dhurga",
+          "description": null,
+          "markup_description": null,
+          "latitude": -35.6666666667,
+          "longitude": 150
+        },
+        "name": "Dhurga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150,
+          -35.6666666667
+        ]
+      },
+      "id": "dhu"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 585,
+          "ascii_name": "dharawal",
+          "genus_pk": 124,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "tbh",
+          "jsondata": {},
+          "id": "dhw",
+          "name": "Dharawal",
+          "description": null,
+          "markup_description": null,
+          "latitude": -34.5,
+          "longitude": 150.5
+        },
+        "name": "Dharawal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5,
+          -34.5
+        ]
+      },
+      "id": "dhw"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 599,
+          "ascii_name": "djaru",
+          "genus_pk": 128,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "ddj",
+          "jsondata": {},
+          "id": "djr",
+          "name": "Djaru",
+          "description": null,
+          "markup_description": null,
+          "latitude": -18.75,
+          "longitude": 128
+        },
+        "name": "Djaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128,
+          -18.75
+        ]
+      },
+      "id": "djr"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 609,
+          "ascii_name": "dobel",
+          "genus_pk": 53,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "kvo",
+          "jsondata": {},
+          "id": "dob",
+          "name": "Dobel",
+          "description": null,
+          "markup_description": null,
+          "latitude": -6.25,
+          "longitude": 134.666666667
+        },
+        "name": "Dobel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.666666667,
+          -6.25
+        ]
+      },
+      "id": "dob"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 614,
+          "ascii_name": "doutai",
+          "genus_pk": 255,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "tds",
+          "jsondata": {},
+          "id": "dou",
+          "name": "Doutai",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3.33333333333,
+          "longitude": 138.166666667
+        },
+        "name": "Doutai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.166666667,
+          -3.33333333333
+        ]
+      },
+      "id": "dou"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 640,
+          "ascii_name": "ekari",
+          "genus_pk": 267,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "ekg",
+          "jsondata": {},
+          "id": "eka",
+          "name": "Ekari",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3.83333333333,
+          "longitude": 135.5
+        },
+        "name": "Ekari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5,
+          -3.83333333333
+        ]
+      },
+      "id": "eka"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 684,
+          "ascii_name": "fore",
+          "genus_pk": 282,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "for",
+          "jsondata": {},
+          "id": "for",
+          "name": "Fore",
+          "description": null,
+          "markup_description": null,
+          "latitude": -6.75,
+          "longitude": 145.5
+        },
+        "name": "Fore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5,
+          -6.75
+        ]
+      },
+      "id": "for"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 751,
+          "ascii_name": "galela",
+          "genus_pk": 299,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "gbi",
+          "jsondata": {},
+          "id": "gll",
+          "name": "Galela",
+          "description": null,
+          "markup_description": null,
+          "latitude": 2.41666666667,
+          "longitude": 128.333333333
+        },
+        "name": "Galela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.333333333,
+          2.41666666667
+        ]
+      },
+      "id": "gll"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 767,
+          "ascii_name": "godoberi",
+          "genus_pk": 79,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "gdo",
+          "jsondata": {},
+          "id": "god",
+          "name": "Godoberi",
+          "description": null,
+          "markup_description": null,
+          "latitude": 42.6666666667,
+          "longitude": 46.0833333333
+        },
+        "name": "Godoberi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0833333333,
+          42.6666666667
+        ]
+      },
+      "id": "god"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 775,
+          "ascii_name": "gorowa",
+          "genus_pk": 36,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "gow",
+          "jsondata": {},
+          "id": "gor",
+          "name": "Gorowa",
+          "description": null,
+          "markup_description": null,
+          "latitude": -4.5,
+          "longitude": 36.5
+        },
+        "name": "Gorowa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5,
+          -4.5
+        ]
+      },
+      "id": "gor"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 778,
+          "ascii_name": "grebo",
+          "genus_pk": 41,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "grj",
+          "jsondata": {},
+          "id": "grb",
+          "name": "Grebo",
+          "description": null,
+          "markup_description": null,
+          "latitude": 5,
+          "longitude": -8
+        },
+        "name": "Grebo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          5
+        ]
+      },
+      "id": "grb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 874,
+          "ascii_name": "huastec",
+          "genus_pk": 17,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "hus",
+          "jsondata": {},
+          "id": "htc",
+          "name": "Huastec",
+          "description": null,
+          "markup_description": null,
+          "latitude": 22.0833333333,
+          "longitude": -99.3333333333
+        },
+        "name": "Huastec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          260.6666666667,
+          22.0833333333
+        ]
+      },
+      "id": "htc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 930,
+          "ascii_name": "iraqw",
+          "genus_pk": 36,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "irk",
+          "jsondata": {},
+          "id": "irq",
+          "name": "Iraqw",
+          "description": null,
+          "markup_description": null,
+          "latitude": -4,
+          "longitude": 35.5
+        },
+        "name": "Iraqw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5,
+          -4
+        ]
+      },
+      "id": "irq"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 931,
+          "ascii_name": "irarutu",
+          "genus_pk": 67,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "irh",
+          "jsondata": {},
+          "id": "irr",
+          "name": "Irarutu",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3,
+          "longitude": 133.5
+        },
+        "name": "Irarutu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.5,
+          -3
+        ]
+      },
+      "id": "irr"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1004,
+          "ascii_name": "kalami",
+          "genus_pk": 91,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "gwc",
+          "jsondata": {},
+          "id": "kal",
+          "name": "Kalami",
+          "description": null,
+          "markup_description": null,
+          "latitude": 35.5,
+          "longitude": 72.5
+        },
+        "name": "Kalami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5,
+          35.5
+        ]
+      },
+      "id": "kal"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1040,
+          "ascii_name": "kera",
+          "genus_pk": 142,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "ker",
+          "jsondata": {},
+          "id": "ker",
+          "name": "Kera",
+          "description": null,
+          "markup_description": null,
+          "latitude": 9.83333333333,
+          "longitude": 15.0833333333
+        },
+        "name": "Kera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0833333333,
+          9.83333333333
+        ]
+      },
+      "id": "ker"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1043,
+          "ascii_name": "kewa",
+          "genus_pk": 270,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "kew",
+          "jsondata": {},
+          "id": "kew",
+          "name": "Kewa",
+          "description": null,
+          "markup_description": null,
+          "latitude": -6.5,
+          "longitude": 143.833333333
+        },
+        "name": "Kewa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.833333333,
+          -6.5
+        ]
+      },
+      "id": "kew"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1045,
+          "ascii_name": "koromfe",
+          "genus_pk": 365,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "kfz",
+          "jsondata": {},
+          "id": "kfe",
+          "name": "Koromfe",
+          "description": null,
+          "markup_description": null,
+          "latitude": 14.25,
+          "longitude": -0.916666666667
+        },
+        "name": "Koromfe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.916666666667,
+          14.25
+        ]
+      },
+      "id": "kfe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1056,
+          "ascii_name": "khalkha",
+          "genus_pk": 119,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "khk",
+          "jsondata": {},
+          "id": "kha",
+          "name": "Khalkha",
+          "description": null,
+          "markup_description": null,
+          "latitude": 47,
+          "longitude": 105
+        },
+        "name": "Khalkha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105,
+          47
+        ]
+      },
+      "id": "kha"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1152,
+          "ascii_name": "kobon",
+          "genus_pk": 380,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "kpw",
+          "jsondata": {},
+          "id": "kob",
+          "name": "Kobon",
+          "description": null,
+          "markup_description": null,
+          "latitude": -5.16666666667,
+          "longitude": 144.333333333
+        },
+        "name": "Kobon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.333333333,
+          -5.16666666667
+        ]
+      },
+      "id": "kob"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1162,
+          "ascii_name": "komipermyak",
+          "genus_pk": 395,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "koi",
+          "jsondata": {},
+          "id": "kop",
+          "name": "Komi-Permyak",
+          "description": null,
+          "markup_description": null,
+          "latitude": 59.5,
+          "longitude": 54.5
+        },
+        "name": "Komi-Permyak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5,
+          59.5
+        ]
+      },
+      "id": "kop"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1218,
+          "ascii_name": "ketengban",
+          "genus_pk": 265,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "xte",
+          "jsondata": {},
+          "id": "ktn",
+          "name": "Ketengban",
+          "description": null,
+          "markup_description": null,
+          "latitude": -4.5,
+          "longitude": 140.5
+        },
+        "name": "Ketengban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5,
+          -4.5
+        ]
+      },
+      "id": "ktn"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1281,
+          "ascii_name": "latvian",
+          "genus_pk": 423,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "lav",
+          "jsondata": {},
+          "id": "lat",
+          "name": "Latvian",
+          "description": null,
+          "markup_description": null,
+          "latitude": 57,
+          "longitude": 24
+        },
+        "name": "Latvian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24,
+          57
+        ]
+      },
+      "id": "lat"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1375,
+          "ascii_name": "mari hill",
+          "genus_pk": 434,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "mrj",
+          "jsondata": {},
+          "id": "mah",
+          "name": "Mari (Hill)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 57,
+          "longitude": 58
+        },
+        "name": "Mari (Hill)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58,
+          57
+        ]
+      },
+      "id": "mah"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1379,
+          "ascii_name": "malagasy",
+          "genus_pk": 436,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Africa",
+          "iso_codes": "plt",
+          "jsondata": {},
+          "id": "mal",
+          "name": "Malagasy",
+          "description": null,
+          "markup_description": null,
+          "latitude": -20,
+          "longitude": 47
+        },
+        "name": "Malagasy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47,
+          -20
+        ]
+      },
+      "id": "mal"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1384,
+          "ascii_name": "maricopa",
+          "genus_pk": 198,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "mrc",
+          "jsondata": {},
+          "id": "mar",
+          "name": "Maricopa",
+          "description": null,
+          "markup_description": null,
+          "latitude": 33.1666666667,
+          "longitude": -113.166666667
+        },
+        "name": "Maricopa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          246.83333333299998,
+          33.1666666667
+        ]
+      },
+      "id": "mar"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1407,
+          "ascii_name": "macedonian",
+          "genus_pk": 153,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "mkd",
+          "jsondata": {},
+          "id": "mcd",
+          "name": "Macedonian",
+          "description": null,
+          "markup_description": null,
+          "latitude": 41.6666666667,
+          "longitude": 21.75
+        },
+        "name": "Macedonian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.75,
+          41.6666666667
+        ]
+      },
+      "id": "mcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1431,
+          "ascii_name": "meyah",
+          "genus_pk": 448,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "mej",
+          "jsondata": {},
+          "id": "mea",
+          "name": "Meyah",
+          "description": null,
+          "markup_description": null,
+          "latitude": -1.16666666667,
+          "longitude": 133.5
+        },
+        "name": "Meyah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.5,
+          -1.16666666667
+        ]
+      },
+      "id": "mea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1506,
+          "ascii_name": "mari meadow",
+          "genus_pk": 434,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "mhr",
+          "jsondata": {},
+          "id": "mme",
+          "name": "Mari (Meadow)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 57,
+          "longitude": 48
+        },
+        "name": "Mari (Meadow)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48,
+          57
+        ]
+      },
+      "id": "mme"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1509,
+          "ascii_name": "mordvin moksha",
+          "genus_pk": 468,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "mdf",
+          "jsondata": {},
+          "id": "mmo",
+          "name": "Mordvin (Moksha)",
+          "description": null,
+          "markup_description": null,
+          "latitude": 54,
+          "longitude": 44
+        },
+        "name": "Mordvin (Moksha)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44,
+          54
+        ]
+      },
+      "id": "mmo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1538,
+          "ascii_name": "mohawk",
+          "genus_pk": 237,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "moh",
+          "jsondata": {},
+          "id": "moh",
+          "name": "Mohawk",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43.5,
+          "longitude": -74.25
+        },
+        "name": "Mohawk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          285.75,
+          43.5
+        ]
+      },
+      "id": "moh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1674,
+          "ascii_name": "nyambo",
+          "genus_pk": 44,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "now",
+          "jsondata": {},
+          "id": "nbo",
+          "name": "Nyambo",
+          "description": null,
+          "markup_description": null,
+          "latitude": -1,
+          "longitude": 31.3333333333
+        },
+        "name": "Nyambo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.3333333333,
+          -1
+        ]
+      },
+      "id": "nbo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1814,
+          "ascii_name": "obokuitai",
+          "genus_pk": 255,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "afz",
+          "jsondata": {},
+          "id": "obk",
+          "name": "Obokuitai",
+          "description": null,
+          "markup_description": null,
+          "latitude": -3,
+          "longitude": 138
+        },
+        "name": "Obokuitai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138,
+          -3
+        ]
+      },
+      "id": "obk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1830,
+          "ascii_name": "oloh mangtangai",
+          "genus_pk": 436,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "nij",
+          "jsondata": {},
+          "id": "olm",
+          "name": "Oloh Mangtangai",
+          "description": null,
+          "markup_description": null,
+          "latitude": -0.833333333333,
+          "longitude": 113
+        },
+        "name": "Oloh Mangtangai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113,
+          -0.833333333333
+        ]
+      },
+      "id": "olm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1836,
+          "ascii_name": "oneida",
+          "genus_pk": 237,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "one",
+          "jsondata": {},
+          "id": "ond",
+          "name": "Oneida",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43,
+          "longitude": -75.6666666667
+        },
+        "name": "Oneida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          284.3333333333,
+          43
+        ]
+      },
+      "id": "ond"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1857,
+          "ascii_name": "ossetic",
+          "genus_pk": 150,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "oss",
+          "jsondata": {},
+          "id": "oss",
+          "name": "Ossetic",
+          "description": null,
+          "markup_description": null,
+          "latitude": 43,
+          "longitude": 44
+        },
+        "name": "Ossetic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44,
+          43
+        ]
+      },
+      "id": "oss"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1870,
+          "ascii_name": "paiwan",
+          "genus_pk": 520,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Papunesia",
+          "iso_codes": "pwn",
+          "jsondata": {},
+          "id": "pai",
+          "name": "Paiwan",
+          "description": null,
+          "markup_description": null,
+          "latitude": 22.5,
+          "longitude": 120.833333333
+        },
+        "name": "Paiwan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.833333333,
+          22.5
+        ]
+      },
+      "id": "pai"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1897,
+          "ascii_name": "pokomchi",
+          "genus_pk": 17,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "poh",
+          "jsondata": {},
+          "id": "pkm",
+          "name": "Pokomchí",
+          "description": null,
+          "markup_description": null,
+          "latitude": 15.4166666667,
+          "longitude": -90.5
+        },
+        "name": "Pokomchí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          269.5,
+          15.4166666667
+        ]
+      },
+      "id": "pkm"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1941,
+          "ascii_name": "pashto",
+          "genus_pk": 150,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "pst",
+          "jsondata": {},
+          "id": "psh",
+          "name": "Pashto",
+          "description": null,
+          "markup_description": null,
+          "latitude": 33,
+          "longitude": 67
+        },
+        "name": "Pashto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67,
+          33
+        ]
+      },
+      "id": "psh"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 1976,
+          "ascii_name": "quechan",
+          "genus_pk": 198,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "yum",
+          "jsondata": {},
+          "id": "que",
+          "name": "Quechan",
+          "description": null,
+          "markup_description": null,
+          "latitude": 32.8333333333,
+          "longitude": -114.333333333
+        },
+        "name": "Quechan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          245.66666666700002,
+          32.8333333333
+        ]
+      },
+      "id": "que"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2002,
+          "ascii_name": "ritharngu",
+          "genus_pk": 128,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "rit",
+          "jsondata": {},
+          "id": "rit",
+          "name": "Ritharngu",
+          "description": null,
+          "markup_description": null,
+          "latitude": -12.8333333333,
+          "longitude": 135.5
+        },
+        "name": "Ritharngu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5,
+          -12.8333333333
+        ]
+      },
+      "id": "rit"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2016,
+          "ascii_name": "rotuman",
+          "genus_pk": 25,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "rtm",
+          "jsondata": {},
+          "id": "rot",
+          "name": "Rotuman",
+          "description": null,
+          "markup_description": null,
+          "latitude": -12.5,
+          "longitude": 177.066666667
+        },
+        "name": "Rotuman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.066666667,
+          -12.5
+        ]
+      },
+      "id": "rot"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2031,
+          "ascii_name": "russian",
+          "genus_pk": 153,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "rus",
+          "jsondata": {},
+          "id": "rus",
+          "name": "Russian",
+          "description": null,
+          "markup_description": null,
+          "latitude": 56,
+          "longitude": 38
+        },
+        "name": "Russian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38,
+          56
+        ]
+      },
+      "id": "rus"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2053,
+          "ascii_name": "serbiancroatian",
+          "genus_pk": 153,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "hbs",
+          "jsondata": {},
+          "id": "scr",
+          "name": "Serbian-Croatian",
+          "description": null,
+          "markup_description": null,
+          "latitude": 44,
+          "longitude": 19
+        },
+        "name": "Serbian-Croatian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19,
+          44
+        ]
+      },
+      "id": "scr"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2057,
+          "ascii_name": "southeast ambrym",
+          "genus_pk": 25,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "tvk",
+          "jsondata": {},
+          "id": "sea",
+          "name": "Southeast Ambrym",
+          "description": null,
+          "markup_description": null,
+          "latitude": -16.3,
+          "longitude": 168.216666667
+        },
+        "name": "Southeast Ambrym"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.216666667,
+          -16.3
+        ]
+      },
+      "id": "sea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2060,
+          "ascii_name": "sedang",
+          "genus_pk": 170,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "sed",
+          "jsondata": {},
+          "id": "sed",
+          "name": "Sedang",
+          "description": null,
+          "markup_description": null,
+          "latitude": 14.8333333333,
+          "longitude": 108
+        },
+        "name": "Sedang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108,
+          14.8333333333
+        ]
+      },
+      "id": "sed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2098,
+          "ascii_name": "sio",
+          "genus_pk": 25,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "xsi",
+          "jsondata": {},
+          "id": "sio",
+          "name": "Sio",
+          "description": null,
+          "markup_description": null,
+          "latitude": -5.95,
+          "longitude": 147.333333333
+        },
+        "name": "Sio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.333333333,
+          -5.95
+        ]
+      },
+      "id": "sio"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2108,
+          "ascii_name": "sikaritai",
+          "genus_pk": 255,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "tty",
+          "jsondata": {},
+          "id": "skr",
+          "name": "Sikaritai",
+          "description": null,
+          "markup_description": null,
+          "latitude": -2.91666666667,
+          "longitude": 138.25
+        },
+        "name": "Sikaritai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.25,
+          -2.91666666667
+        ]
+      },
+      "id": "skr"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2111,
+          "ascii_name": "slave",
+          "genus_pk": 37,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "den",
+          "jsondata": {},
+          "id": "sla",
+          "name": "Slave",
+          "description": null,
+          "markup_description": null,
+          "latitude": 67,
+          "longitude": -125
+        },
+        "name": "Slave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235,
+          67
+        ]
+      },
+      "id": "sla"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2115,
+          "ascii_name": "slovene",
+          "genus_pk": 153,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "slv",
+          "jsondata": {},
+          "id": "slo",
+          "name": "Slovene",
+          "description": null,
+          "markup_description": null,
+          "latitude": 46,
+          "longitude": 15
+        },
+        "name": "Slovene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15,
+          46
+        ]
+      },
+      "id": "slo"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2119,
+          "ascii_name": "selayar",
+          "genus_pk": 94,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "sly",
+          "jsondata": {},
+          "id": "sly",
+          "name": "Selayar",
+          "description": null,
+          "markup_description": null,
+          "latitude": -6,
+          "longitude": 120.5
+        },
+        "name": "Selayar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5,
+          -6
+        ]
+      },
+      "id": "sly"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2123,
+          "ascii_name": "semelai",
+          "genus_pk": 338,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "sza",
+          "jsondata": {},
+          "id": "sml",
+          "name": "Semelai",
+          "description": null,
+          "markup_description": null,
+          "latitude": 3,
+          "longitude": 103
+        },
+        "name": "Semelai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103,
+          3
+        ]
+      },
+      "id": "sml"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2151,
+          "ascii_name": "squamish",
+          "genus_pk": 211,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "squ",
+          "jsondata": {},
+          "id": "squ",
+          "name": "Squamish",
+          "description": null,
+          "markup_description": null,
+          "latitude": 49.6666666667,
+          "longitude": -123.166666667
+        },
+        "name": "Squamish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          236.83333333299998,
+          49.6666666667
+        ]
+      },
+      "id": "squ"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2174,
+          "ascii_name": "stoney",
+          "genus_pk": 242,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "sto",
+          "jsondata": {},
+          "id": "sto",
+          "name": "Stoney",
+          "description": null,
+          "markup_description": null,
+          "latitude": 53.75,
+          "longitude": -116.5
+        },
+        "name": "Stoney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          243.5,
+          53.75
+        ]
+      },
+      "id": "sto"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2193,
+          "ascii_name": "swedish",
+          "genus_pk": 27,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "swe",
+          "jsondata": {},
+          "id": "swe",
+          "name": "Swedish",
+          "description": null,
+          "markup_description": null,
+          "latitude": 60,
+          "longitude": 15
+        },
+        "name": "Swedish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15,
+          60
+        ]
+      },
+      "id": "swe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2194,
+          "ascii_name": "sawai",
+          "genus_pk": 67,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "szw",
+          "jsondata": {},
+          "id": "swi",
+          "name": "Sawai",
+          "description": null,
+          "markup_description": null,
+          "latitude": 0.5,
+          "longitude": 128
+        },
+        "name": "Sawai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128,
+          0.5
+        ]
+      },
+      "id": "swi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2204,
+          "ascii_name": "tahitian",
+          "genus_pk": 25,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "tah",
+          "jsondata": {},
+          "id": "tah",
+          "name": "Tahitian",
+          "description": null,
+          "markup_description": null,
+          "latitude": -17.6666666667,
+          "longitude": -149.583333333
+        },
+        "name": "Tahitian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          210.416666667,
+          -17.6666666667
+        ]
+      },
+      "id": "tah"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2214,
+          "ascii_name": "tashlhiyt",
+          "genus_pk": 125,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Africa",
+          "iso_codes": "shi",
+          "jsondata": {},
+          "id": "tas",
+          "name": "Tashlhiyt",
+          "description": null,
+          "markup_description": null,
+          "latitude": 31,
+          "longitude": -5
+        },
+        "name": "Tashlhiyt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5,
+          31
+        ]
+      },
+      "id": "tas"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2251,
+          "ascii_name": "tigak",
+          "genus_pk": 25,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "tgc",
+          "jsondata": {},
+          "id": "tgk",
+          "name": "Tigak",
+          "description": null,
+          "markup_description": null,
+          "latitude": -2.71666666667,
+          "longitude": 150.8
+        },
+        "name": "Tigak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8,
+          -2.71666666667
+        ]
+      },
+      "id": "tgk"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2360,
+          "ascii_name": "tsakhur",
+          "genus_pk": 32,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "tkr",
+          "jsondata": {},
+          "id": "tsa",
+          "name": "Tsakhur",
+          "description": null,
+          "markup_description": null,
+          "latitude": 41.6666666667,
+          "longitude": 47.1666666667
+        },
+        "name": "Tsakhur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1666666667,
+          41.6666666667
+        ]
+      },
+      "id": "tsa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2384,
+          "ascii_name": "tuamotuan",
+          "genus_pk": 25,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "pmt",
+          "jsondata": {},
+          "id": "tua",
+          "name": "Tuamotuan",
+          "description": null,
+          "markup_description": null,
+          "latitude": -17,
+          "longitude": -144
+        },
+        "name": "Tuamotuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          216,
+          -17
+        ]
+      },
+      "id": "tua"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2392,
+          "ascii_name": "tunica",
+          "genus_pk": 586,
+          "samples_100": false,
+          "samples_200": true,
+          "macroarea": "North America",
+          "iso_codes": "tun",
+          "jsondata": {},
+          "id": "tun",
+          "name": "Tunica",
+          "description": null,
+          "markup_description": null,
+          "latitude": 32.6666666667,
+          "longitude": -91
+        },
+        "name": "Tunica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          269,
+          32.6666666667
+        ]
+      },
+      "id": "tun"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2394,
+          "ascii_name": "turkish",
+          "genus_pk": 90,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "Eurasia",
+          "iso_codes": "tur",
+          "jsondata": {},
+          "id": "tur",
+          "name": "Turkish",
+          "description": null,
+          "markup_description": null,
+          "latitude": 39,
+          "longitude": 35
+        },
+        "name": "Turkish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          39
+        ]
+      },
+      "id": "tur"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2473,
+          "ascii_name": "wari",
+          "genus_pk": 596,
+          "samples_100": true,
+          "samples_200": true,
+          "macroarea": "South America",
+          "iso_codes": "pav",
+          "jsondata": {},
+          "id": "war",
+          "name": "Wari'",
+          "description": null,
+          "markup_description": null,
+          "latitude": -11.3333333333,
+          "longitude": -65
+        },
+        "name": "Wari'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          295,
+          -11.3333333333
+        ]
+      },
+      "id": "war"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2495,
+          "ascii_name": "wiyot",
+          "genus_pk": 600,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "wiy",
+          "jsondata": {},
+          "id": "wiy",
+          "name": "Wiyot",
+          "description": null,
+          "markup_description": null,
+          "latitude": 40.8333333333,
+          "longitude": -124.166666667
+        },
+        "name": "Wiyot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235.83333333299998,
+          40.8333333333
+        ]
+      },
+      "id": "wiy"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2513,
+          "ascii_name": "woisika",
+          "genus_pk": 12,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "woi",
+          "jsondata": {},
+          "id": "woi",
+          "name": "Woisika",
+          "description": null,
+          "markup_description": null,
+          "latitude": -8.25,
+          "longitude": 124.833333333
+        },
+        "name": "Woisika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.833333333,
+          -8.25
+        ]
+      },
+      "id": "woi"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2557,
+          "ascii_name": "yana",
+          "genus_pk": 611,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "North America",
+          "iso_codes": "ynn",
+          "jsondata": {},
+          "id": "yan",
+          "name": "Yana",
+          "description": null,
+          "markup_description": null,
+          "latitude": 40.5,
+          "longitude": -122
+        },
+        "name": "Yana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          238,
+          40.5
+        ]
+      },
+      "id": "yan"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2587,
+          "ascii_name": "yir yoront",
+          "genus_pk": 35,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Australia",
+          "iso_codes": "yyr",
+          "jsondata": {},
+          "id": "yir",
+          "name": "Yir Yoront",
+          "description": null,
+          "markup_description": null,
+          "latitude": -14.8333333333,
+          "longitude": 141.833333333
+        },
+        "name": "Yir Yoront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.833333333,
+          -14.8333333333
+        ]
+      },
+      "id": "yir"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2600,
+          "ascii_name": "yamdena",
+          "genus_pk": 53,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Papunesia",
+          "iso_codes": "jmd",
+          "jsondata": {},
+          "id": "ymd",
+          "name": "Yamdena",
+          "description": null,
+          "markup_description": null,
+          "latitude": -7.5,
+          "longitude": 131.5
+        },
+        "name": "Yamdena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.5,
+          -7.5
+        ]
+      },
+      "id": "ymd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "value_numeric": 5,
+        "value_name": "No rhythmic stress",
+        "icon": "data:image/svg+xml;base64,PHN2ZyAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI0MCIgd2lkdGg9IjQwIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIxNCIgc3R5bGU9ImZpbGw6I0ZGRkZGRjtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjFweDtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7b3BhY2l0eTpOb25lOyIvPgo8L3N2Zz4=",
+        "language": {
+          "pk": 2633,
+          "ascii_name": "yazva",
+          "genus_pk": 395,
+          "samples_100": false,
+          "samples_200": false,
+          "macroarea": "Eurasia",
+          "iso_codes": "kpv",
+          "jsondata": {},
+          "id": "yzv",
+          "name": "Yazva",
+          "description": null,
+          "markup_description": null,
+          "latitude": 65,
+          "longitude": 55
+        },
+        "name": "Yazva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55,
+          65
+        ]
+      },
+      "id": "yzv"
+    }
+  ]
+}
