@@ -1,0 +1,244 @@
+-- Создание таблиц, работа с ней
+
+CREATE TABLE test1(
+	id SERIAL PRIMARY KEY,
+	name VARCHAR(100),
+	align VARCHAR(30),
+	eye VARCHAR(30),
+	hair VARCHAR(30),
+	gender VARCHAR(30),
+	appearances INT,
+	year INT,
+	universe VARCHAR(10)
+)
+
+ALTER TABLE test1 ADD COLUMN alive BOOLEAN;
+ALTER TABLE test1 ADD COLUMN first_appearance TIMESTAMP;
+ALTER TABLE test1 DROP COLUMN year;
+ALTER TABLE test1 RENAME COLUMN name TO hero_name;
+ALTER TABLE test1 RENAME TO test2;
+
+INSERT INTO test2(hero_name, align, eye, hair, gender, appearances, universe)
+VALUES ('Spider-Man', 'Good character', 'Hazel', 'Brown', 'male', 4043, 'marvel');
+
+SELECT * FROM test2;
+
+UPDATE test2
+SET hero_name='Batman', universe='dc'
+WHERE id=1;
+
+UPDATE test2
+SET gender='Male'
+WHERE id=1;
+
+UPDATE test2
+SET gender='Male character'
+WHERE gender='Male';
+
+DELETE FROM test2
+WHERE id=1;
+
+DELETE FROM test2;
+
+SELECT * FROM test2;
+
+--
+--
+-- Работа с таблицей sql_foundation
+
+SELECT * FROM superheroes;
+
+SELECT name AS hero_name, 
+	appearances AS ap 
+FROM superheroes;
+
+SELECT name AS hero_name, 
+	appearances ap1 
+FROM superheroes;
+
+SELECT DISTINCT(align)
+FROM superheroes;
+
+SELECT DISTINCT(eye)
+FROM superheroes;
+
+SELECT DISTINCT(eye)
+FROM superheroes
+LIMIT 10;
+
+SELECT DISTINCT(hair)
+FROM superheroes
+LIMIT 10;
+
+SELECT *
+FROM superheroes
+WHERE gender='Female Characters';
+
+SELECT *
+FROM superheroes
+WHERE align='Reformed Criminals';
+
+
+-- Операторы 
+
+SELECT *
+FROM superheroes 
+WHERE year BETWEEN 2005 AND 2005;
+
+SELECT *
+FROM superheroes 
+WHERE hair IN ('Strawberry Blond Hair', 'Red Hair', 'Auburn Hair');
+
+SELECT *
+FROM superheroes 
+WHERE hair LIKE '%Blond%';
+
+SELECT * FROM superheroes
+WHERE gender LIKE 'Female%' AND align LIKE 'Bad%'
+
+SELECT * FROM superheroes
+WHERE gender='Female Characters' AND align='Bad Characters'
+
+SELECT * FROM superheroes
+WHERE hair='Red Hair'
+	OR hair='Strawberry Blond Hair'
+	OR hair='Auburn Hair';
+	
+SELECT * FROM superheroes
+WHERE hair='Red Hair' AND gender='Female Characters' 
+	OR 
+	hair='Blond Hair' AND gender='Male Characters';
+	
+SELECT * FROM superheroes
+WHERE (
+	hair='Red Hair' AND gender='Female Characters' 
+	OR 
+	hair='Blond Hair' AND gender='Male Characters'
+	)
+	AND eye='Hazel Eyes';
+
+SELECT * FROM superheroes
+WHERE hair NOT IN ('Blond Hair', 'Black Hair', 'Brown Hair', 'Red Hair');
+
+SELECT hair, COUNT(*) * 100.0 / SUM(COUNT(*)) OVER () AS percentage 
+FROM superheroes GROUP BY hair;
+
+
+-- Сортировка
+SELECT * FROM superheroes
+ORDER BY year; 
+
+SELECT * FROM superheroes
+ORDER BY year DESC; 
+
+SELECT * FROM superheroes
+ORDER BY appearances DESC;
+
+SELECT * FROM superheroes
+WHERE align='Bad Characters'
+ORDER BY appearances DESC;
+
+SELECT * FROM superheroes
+WHERE gender='Female Characters' AND align='Bad Characters'
+ORDER BY appearances DESC
+LIMIT 5;
+
+SELECT * FROM superheroes
+ORDER BY year, appearances;
+
+SELECT * FROM superheroes
+ORDER BY year DESC, appearances DESC;
+
+--Группировка
+SELECT gender, COUNT(*) FROM superheroes
+GROUP BY gender;
+
+SELECT align, COUNT(*) FROM superheroes
+GROUP BY align;
+
+SELECT universe, align, COUNT(*) FROM superheroes
+GROUP BY universe, align;
+
+SELECT align, universe, COUNT(*) FROM superheroes
+GROUP BY align, universe;
+
+SELECT hair, COUNT(*) FROM superheroes
+WHERE gender='Female Characters'
+GROUP BY hair;
+
+SELECT hair, COUNT(*) FROM superheroes
+WHERE gender='Female Characters'
+GROUP BY hair
+ORDER BY count(*) DESC;
+
+SELECT hair, COUNT(*) FROM superheroes
+--WHERE gender='Female Characters'
+GROUP BY hair
+ORDER BY count(*) DESC;
+
+SELECT hair, COUNT(*) FROM superheroes
+WHERE gender='Female Characters'
+GROUP BY hair
+ORDER BY count(*) DESC
+LIMIT 5;
+
+SELECT hair, COUNT(*) FROM superheroes
+WHERE gender='Female Characters'
+GROUP BY hair
+ORDER BY count(*) DESC
+LIMIT 25;
+
+--Агрегатные функции
+SELECT align, COUNT(*), SUM(appearances) 
+FROM superheroes
+GROUP BY align;
+
+SELECT align, AVG(appearances), SUM(appearances)/COUNT(*) AS average
+FROM superheroes
+GROUP BY align;
+
+SELECT year, MIN(appearances), MAX(appearances)
+FROM superheroes
+GROUP BY year;
+
+SELECT year, MIN(appearances), MAX(appearances)
+FROM superheroes
+GROUP BY year
+ORDER BY year;
+
+SELECT name, year, MIN(appearances), MAX(appearances)
+FROM superheroes
+GROUP BY name, year;
+
+SELECT name, year, MIN(appearances), MAX(appearances)
+FROM superheroes
+GROUP BY name, year
+ORDER BY name, year;
+
+SELECT year, MIN(appearances), MAX(appearances)
+FROM superheroes
+GROUP BY year
+ORDER BY MAX(appearances);
+
+SELECT year, MIN(appearances), MAX(appearances) AS max_up
+FROM superheroes
+GROUP BY year
+ORDER BY max_up DESC;
+
+SELECT year, MIN(appearances), MAX(appearances) AS max_up
+FROM superheroes
+GROUP BY year
+ORDER BY max_up DESC
+LIMIT 5;
+
+SELECT COUNT(*),
+	MIN(appearances),
+	MAX(appearances),
+	SUM(appearances),
+	AVG(appearances)
+FROM superheroes;
+
+
+
+
+
